@@ -1,8 +1,9 @@
+[![MasterHead](https://www.shutterstock.com/image-photo/doctor-work-laptop-computerdigital-healthcare-technologysystem-2188657227)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aditya Nanaware</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
+<img src="assets/img/hero-bg2.jpg" alt="" data-aos="fade-in" class="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityananaware&label=Profile%20views&color=0e75b6&style=flat" alt="adityananaware" /> </p>
- <img src="[https://komarev.com/ghpvc/?username=adityananaware&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fwhat-data-analysis-aditya-patel&psig=AOvVaw3BmYWbISJN8rGz0NoyIA62&ust=1730758202849000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJi5lPGWwYkDFQAAAAAdAAAAABAE)" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityananaware" alt="adityananaware" /></a> </p>
 
