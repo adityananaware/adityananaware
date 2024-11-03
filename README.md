@@ -18,10 +18,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adi_nanaware_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adi_nanaware_02" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aditya-nanaware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-nanaware" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aditya-nanaware-72b560251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-nanaware-72b560251/" height="30" width="40" /></a>
 <a href="https://fb.com/aditya.nanaware.39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aditya.nanaware.39" height="30" width="40" /></a>
 <a href="https://instagram.com/aditya_nanaware_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya_nanaware_02" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucfr3zrbohjgkvecbexlnjua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucfr3zrbohjgkvecbexlnjua" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/channel/ucfr3zrbohjgkvecbexlnjua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/ucfr3zrbohjgkvecbexlnjua" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/adi_nanaware02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adi_nanaware02" height="30" width="40" /></a>
 </p>
 
