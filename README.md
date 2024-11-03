@@ -1,4 +1,4 @@
-[(https://img.pikbest.com/wp/202346/data-analytics-web-banner-and-business-chart-mockup-featuring-a-3d-rendered-seo-user-interface_9621529.jpg!w700wp)](https://www.shutterstock.com/image-photo/kpi-business-analytics-dashboard-on-laptop-1921199576)
+[[[(https://img.pikbest.com/wp/202346/data-analytics-web-banner-and-business-chart-mockup-featuring-a-3d-rendered-seo-user-interface_9621529.jpg!w700wp)](https://www.shutterstock.com/image-photo/kpi-business-analytics-dashboard-on-laptop-1921199576)]](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)(https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Aditya Nanaware</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img src="assets/img/hero-bg2.jpg" alt="" data-aos="fade-in" class="">
