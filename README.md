@@ -1,10 +1,23 @@
-![MasterHead](https://i0.wp.com/paymentearth.com/wp-content/uploads/2020/07/big-data-analytics-banner-image-131934029945360761.jpg?resize=300%2C113&ssl=1
-)
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+21586
+Fork on GitHub
+6853
+
+back to edit
+
+copied
+
+download markdown
+
+download backup
+
+preview
 <h1 align="center">Hi 👋, I'm Aditya Nanaware</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img src="assets/img/hero-bg2.jpg" alt="" data-aos="fade-in" class="">
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=adityananaware&label=Profile%20views&color=0e75b6&style=flat](https://assets.zyrosite.com/Aq20eV79zLfpXV6b/data-science-2-mP4XPq0y3wUKory9.gif)" alt="adityananaware" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityananaware&label=Profile%20views&color=0e75b6&style=flat" alt="adityananaware" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityananaware" alt="adityananaware" /></a> </p>
 
@@ -36,3 +49,28 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityananaware&show_icons=true&locale=en" alt="adityananaware" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityananaware&" alt="adityananaware" /></p>
+
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
