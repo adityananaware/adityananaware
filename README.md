@@ -1,4 +1,4 @@
-[![MasterHead](https://www.shutterstock.com/image-photo/doctor-work-laptop-computerdigital-healthcare-technologysystem-2188657227)]
+[MasterHead](https://www.shutterstock.com/image-photo/doctor-work-laptop-computerdigital-healthcare-technologysystem-2188657227)
 <h1 align="center">Hi 👋, I'm Aditya Nanaware</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img src="assets/img/hero-bg2.jpg" alt="" data-aos="fade-in" class="">
